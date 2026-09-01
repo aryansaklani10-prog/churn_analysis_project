@@ -1,6 +1,6 @@
 # 📉 Customer Churn & Subscription Analytics Portfolio Project
 
-An end-to-end data analytics project combining **Python (Pandas)** and **SQLite** to process, clean, and analyze a customer subscription database. This project computes **11 core Key Performance Indicators (KPIs)** using advanced SQL queries, uncovering critical retention drivers and risk behaviors.
+An end-to-end data analytics project combining **Python (Pandas)** and **SQLite** to process, clean, and analyze a customer subscription database. This project computes **core Key Performance Indicators (KPIs)** using advanced SQL queries, uncovering critical retention drivers and risk behaviors.
 
 ---
 
@@ -22,7 +22,7 @@ An end-to-end data analytics project combining **Python (Pandas)** and **SQLite*
 
 ---
 
-## 📊 The 11 Core Key Performance Indicators (KPIs)
+## 📊 The Core Key Performance Indicators (KPIs)
 
 The analytics engine evaluates the `master_file_table` to track the following business metrics:
 
